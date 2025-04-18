@@ -24,14 +24,6 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
 
 ### 📈 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="Gabriella GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=gabsmaciel&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
   <img 
     align="left" 
     alt="Top Languages" 
@@ -39,5 +31,4 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsmaciel&layout=compact&theme=tokyonight&locale=pt-br" 
   />
 </p>
-
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
