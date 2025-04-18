@@ -43,12 +43,3 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
-
-### 💬 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriellammaciel/)
-- 💻 Repositórios: [github.com/gabsmaciel](https://github.com/gabsmaciel)
-
----
-
-🛠️ *Este perfil está em constante construção, assim como minha jornada na tecnologia!*
