@@ -41,5 +41,3 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
