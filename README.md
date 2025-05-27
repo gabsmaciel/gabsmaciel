@@ -2,16 +2,20 @@
 
 **`Estudante de TI | Back-end • Segurança da Informação • Spring Boot`**
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e **Ciência da Computação**, e estou em transição de carreira do Direito para a Tecnologia. Tenho interesse em atuar com **Desenvolvimento Back-end**, **Segurança da Informação**, **Infraestrutura de Redes** e **Inteligência Artificial**, com foco em tecnologias como **Java, Spring Boot e APIs RESTful**.
+Curso **Análise e Desenvolvimento de Sistemas** e **Ciência da Computação**, com foco em desenvolvimento Back-end. Antes da tecnologia, concluí a graduação em Direito, o que contribuiu para meu perfil analítico, estruturado e com atenção aos detalhes — habilidades que hoje aplico no desenvolvimento de soluções técnicas.
 
-Já atuei com **automação de processos usando PowerShell**, **migração de dados**, e tenho conhecimentos práticos em **Java com Spring Boot**, além de vivência com **metodologias ágeis** como SCRUM e Kanban. Trago comigo também uma sólida experiência administrativa e jurídica, que fortalece minhas habilidades de organização, comunicação e responsabilidade.
+Venho colocando em prática conhecimentos como **automação de processos com PowerShell**, **modelagem de bancos relacionais**, **migração de dados** e **desenvolvimento de APIs RESTful com Java e Spring Boot**.
+
+Tenho familiaridade com ferramentas e tecnologias como **Git**, **GitHub**, **PostgreSQL**, **MySQL**, **Postman**, **UML**, **POO**, **Scrum**, **Kanban** e **orientação a objetos em Java**, além de estar sempre evoluindo com projetos e cursos práticos. Também possuo **inglês em nível B2**, o que me permite acompanhar materiais técnicos e documentações internacionais com autonomia.
+
+Gosto de estruturar soluções com lógica, clareza e propósito — e sigo aprendendo, testando e construindo com consistência.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,python,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,git,github,postman,html,css,python,intellij" />
 </p>
 
 ---
@@ -26,20 +30,20 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [💱 Conversor de Moedas](https://github.com/gabsmaciel/challenge-conversor-de-moedas) | Conversor em Java via terminal com consumo de API externa | Java |
-| [🎲 Amigo Secreto](https://github.com/gabsmaciel/challenge-amigo-secreto_pt) | Sorteio interativo de amigo secreto com HTML e CSS | HTML, CSS |
-| [📘 Estudos Java](https://github.com/gabsmaciel/estudos-java) | Repositório com exercícios e estudos em Java | Java |
-| [🌐 Estudos Front-end](https://github.com/gabsmaciel/estudos-frontend) | Atividades com HTML/CSS como parte da formação | HTML, CSS |
+| [💱 Conversor de Moedas](https://github.com/gabsmaciel/challenge-conversor-de-moedas) | Conversor via terminal com consumo de API externa | Java |
+| [🎲 Amigo Secreto](https://github.com/gabsmaciel/challenge-amigo-secreto_pt) | Sorteio interativo com HTML e CSS | HTML, CSS |
+| [📘 Estudos Java](https://github.com/gabsmaciel/estudos-java) | Repositório com práticas e exercícios de cursos | Java |
+| [🌐 Estudos Front-end](https://github.com/gabsmaciel/estudos-frontend) | Atividades com HTML e CSS | HTML, CSS |
 
 ---
 
 ## 🎯 Objetivos atuais
 
 - [x] Finalizar o Challenge ONE Java Back-end
-- [ ] Criar CRUD completo com Spring Data JPA e PostgreSQL
+- [ ] Desenvolver uma API completa com Spring Data JPA
 - [ ] Concluir os desafios Literalura e Fórum com Spring Boot
-- [ ] Aprender deploy com AWS (EC2, S3, RDS)
-- [ ] Implementar autenticação com Spring Security + JWT
+- [ ] Estudar deploy com AWS (EC2, RDS, S3)
+- [ ] Implementar autenticação com Spring Security e JWT
 
 ---
 
@@ -50,4 +54,4 @@ Já atuei com **automação de processos usando PowerShell**, **migração de da
 
 ---
 
-✨ *Obrigada por visitar meu perfil! Estou sempre construindo, testando e aprendendo — conecte-se comigo no LinkedIn ou explore meus projetos aqui no GitHub.*
+✨ *Obrigada por visitar! Estou sempre praticando, aprendendo e melhorando. Fique à vontade para explorar meus projetos ou entrar em contato.*
